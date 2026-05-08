@@ -1,6 +1,6 @@
 dnspython
 elasticsearch==8.18.1
-netifaces
+netifaces-plus
 pytz
 requests
 tzlocal
