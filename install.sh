@@ -17,7 +17,7 @@ CONFIG_FILE="/boot/firmware/config.txt"
 cd $HOME
 sudo apt update
 sudo apt dist-upgrade -y
-sudo apt install git eza mesa-utils micro python3 python3-pygame python3-pip unattended-upgrades -y
+sudo apt install git exa mesa-utils micro python3 python3-pygame python3-pip unattended-upgrades -y
 #sudo rpi-update
 git clone https://github.com/DawidLebiedzki/tpotmobile
 git clone https://github.com/telekom-security/tpotce
